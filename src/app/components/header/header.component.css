@@ -1,0 +1,15 @@
+header {
+    
+    top: 0px;
+    left: 0px;
+    background: linear-gradient(to right, rgba(0,0,0,0.6), rgba(0,0,0,0.8), rgba(0,0,0,0)),url('../../../assets/images/raspberry-pi-1719220_1280.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+   
+   
+}
+
+a{
+    color: aliceblue;
+}
