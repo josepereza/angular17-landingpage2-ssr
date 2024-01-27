@@ -1,7 +1,7 @@
 # Angular17LandingPage2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
-![images](a17landingpage2.png)
+![images](a17landing2.png)
 
 ## Development server
 
